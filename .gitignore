@@ -8,10 +8,10 @@ test/public_html/bitrix/php_interface/crontab
 test/public_html/bitrix/php_interface/dbconn.php
 test/public_html/bitrix/stack_cache
 /logs
-test/public_html/bitrix/upload
+test/public_html/upload
 /.gitignore
-test/public_html/.htaccess
-test/public_html/urlrewrite.php
+/.htaccess
+/urlrewrite.php
 /*.log
 /*.sql
 /*.txt
