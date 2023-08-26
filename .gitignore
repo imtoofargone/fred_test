@@ -6,12 +6,14 @@ test/public_html/bitrix/managed_flags
 test/public_html/bitrix/modules/*.log
 test/public_html/bitrix/php_interface/crontab
 test/public_html/bitrix/php_interface/dbconn.php
+.local/php_interface/dbconn.php
+.local/php_interface/crontab
 test/public_html/bitrix/stack_cache
 /logs
 test/public_html/upload
 /.gitignore
-/.htaccess
-/urlrewrite.php
+test/public_html/.htaccess
+test/public_html/urlrewrite.php
 /*.log
 /*.sql
 /*.txt
