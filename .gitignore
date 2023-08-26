@@ -10,8 +10,8 @@ test/public_html/bitrix/stack_cache
 /logs
 test/public_html/bitrix/upload
 /.gitignore
-/.htaccess
-test/public_html/bitrix/urlrewrite.php
+test/public_html/.htaccess
+test/public_html/urlrewrite.php
 /*.log
 /*.sql
 /*.txt
